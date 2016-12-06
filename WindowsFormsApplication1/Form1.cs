@@ -9,6 +9,7 @@ using System.Windows.Forms;
 <!--testc-->
 <!--Test2-->
 <!--Test3-->
+<!--Test4-->
 
 namespace WindowsFormsApplication1
 {

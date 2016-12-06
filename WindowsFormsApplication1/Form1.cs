@@ -12,6 +12,7 @@ using System.Windows.Forms;
 <!--Test4-->
 <!--Test5-->
 <!--Test6-->
+<!--Test7-->
 
 namespace WindowsFormsApplication1
 {

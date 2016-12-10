@@ -1,8 +1,0 @@
-M:\Working_Folder\1232\WebApplication1\bin\WebApplication1.dll
-M:\Working_Folder\1232\WebApplication1\bin\WebApplication1.pdb
-M:\Working_Folder\1232\WebApplication1\bin\WebApplication1.xml
-M:\Working_Folder\1232\WebApplication1\obj\Debug\WebApplication1.Resources.resources
-M:\Working_Folder\1232\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
-M:\Working_Folder\1232\WebApplication1\obj\Debug\WebApplication1.dll
-M:\Working_Folder\1232\WebApplication1\obj\Debug\WebApplication1.xml
-M:\Working_Folder\1232\WebApplication1\obj\Debug\WebApplication1.pdb
